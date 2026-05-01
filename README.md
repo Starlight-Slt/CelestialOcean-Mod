@@ -36,6 +36,8 @@ This is a Terraria mod.
 **环境区Environmental Zone**
 隶属于栽培工艺内的一个分类，现设计中属于后期内容
 
-类似于环境瓶建筑，其会在一定区域内生成一个不影响外界的环境区域。
+类似于环境瓶建筑，其会在一定区域内生成一个不影响外界的环境区域，玩家可以自由进出
 
-生成使用到的设备被称为**系统化液炼环境载析机**-英文名**Systematic Liquid-Refining Environmental Carrier-Analyzer**，简称**SL-Rec-A**。总共结合了**注炼机Liquid Injection Refiner** *(器械)*，**易载式存储模块Easy-Load Storage Module** *(模块)*，**载析仪Load Analyzer**
+生成使用到的设备被称为**系统化液炼环境载析机**-英文名**Systematic Liquid-Refining Environmental Carrier-Analyzer**-简称**SL-Rec-A**。总共结合了**注炼机** *(器械)*，**易载式存储模块** *(模块)*，**载析仪** *(仪器)*三种物品
+
+其拥有正常环境所具有的功能。会自动生产该环境内除液体，单次获得物外的任何物品，例如木材，敌怪掉落物。但一些物品产出受概率限制
